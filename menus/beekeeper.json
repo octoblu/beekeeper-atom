@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle beekeeper",
-        "command": "beekeeper:toggle"
+        "label": "Configure beekeeper project",
+        "command": "beekeeper:configure"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "beekeeper",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "beekeeper:toggle"
+              "label": "Configure",
+              "command": "beekeeper:configure"
             }
           ]
         }

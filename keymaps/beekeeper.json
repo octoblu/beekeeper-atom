@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "beekeeper:toggle"
+    "ctrl-alt-o": "beekeeper:configure"
   }
 }
