@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle beekeeper",
+        "command": "beekeeper:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "beekeeper",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "beekeeper:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
